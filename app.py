@@ -100,3 +100,7 @@ approach to tunnel entry, peak speed near entry, turning inside the tunnel,
 and uphill exit with constrained speed recovery.
 """
 )
+st.subheader("Video Playback")
+
+video_file = "sample_dataset_v3.mp4"
+st.video(video_file)
