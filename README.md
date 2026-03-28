@@ -44,8 +44,7 @@ but why it happened.
 ---
 
 ## Demo
-
-👉 [Open Streamlit App](PUT_LINK_HERE)
+[Open Streamlit App](https://scg-app-demo-n5pgxvpgqfnmmwsun2hw4x.streamlit.app/)
 
 ---
 
